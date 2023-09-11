@@ -1,3 +1,6 @@
 [submodule "kiss_fft"]
 	path = kiss_fft
 	url = git@github.com:mborgerding/kissfft.git
+[submodule "signal_processing"]
+	path = signal_processing
+	url = git@github.com:lundburgerr/signal_processing.git
